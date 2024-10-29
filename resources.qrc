@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/swissalti3d_convert" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
